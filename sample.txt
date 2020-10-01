@@ -1,1 +1,3 @@
 Hello World
+I'm Minoru Shinohara.
+I'm learning to GitHub now.
