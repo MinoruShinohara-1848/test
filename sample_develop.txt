@@ -1,0 +1,5 @@
+Hello World
+I'm Minoru Shinohara.
+I'm learning Git now.
+
+This file is belonging to develop branch.
